@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/metashoes/static/css/main.43ac6ab0.chunk.css",
+    "main.js": "/metashoes/static/js/main.1e700147.chunk.js",
+    "main.js.map": "/metashoes/static/js/main.1e700147.chunk.js.map",
+    "runtime-main.js": "/metashoes/static/js/runtime-main.c14c5bac.js",
+    "runtime-main.js.map": "/metashoes/static/js/runtime-main.c14c5bac.js.map",
+    "static/js/2.366a9635.chunk.js": "/metashoes/static/js/2.366a9635.chunk.js",
+    "static/js/2.366a9635.chunk.js.map": "/metashoes/static/js/2.366a9635.chunk.js.map",
+    "index.html": "/metashoes/index.html",
+    "static/css/main.43ac6ab0.chunk.css.map": "/metashoes/static/css/main.43ac6ab0.chunk.css.map",
+    "static/js/2.366a9635.chunk.js.LICENSE.txt": "/metashoes/static/js/2.366a9635.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c14c5bac.js",
+    "static/js/2.366a9635.chunk.js",
+    "static/css/main.43ac6ab0.chunk.css",
+    "static/js/main.1e700147.chunk.js"
+  ]
+}
