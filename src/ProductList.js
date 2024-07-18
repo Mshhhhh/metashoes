@@ -1,12 +1,18 @@
 import React from 'react';
+import shoes1 from './image/shoes1.jpg';
+import shoes2 from './image/shoes2.png';
+import shoes3 from './image/shoes3.png';
+import shoes4 from './image/shoes4.png';
+import shoes5 from './image/shoes5.png';
+import shoes6 from './image/shoes6.png';
 
 const products = [
-  { id: 1, name: '브랜드A', description: '편안하고 착용감이 좋은 신발', price: '35,000원', imgSrc: 'path/to/image1.png' },
-  { id: 2, name: '브랜드A', description: '편한 컬러가 매력적인 신발', price: '25,000원', imgSrc: 'path/to/image2.png' },
-  { id: 3, name: '브랜드B', description: '편안하고 착용감이 좋은 신발', price: '35,000원', imgSrc: 'path/to/image3.png' },
-  { id: 4, name: '브랜드B', description: '편한 컬러가 매력적인 신발', price: '35,000원', imgSrc: 'path/to/image4.png' },
-  { id: 5, name: '브랜드C', description: '편안하고 착용감이 좋은 신발', price: '35,000원', imgSrc: 'path/to/image5.png' },
-  { id: 6, name: '브랜드C', description: '편한 컬러가 매력적인 신발', price: '35,000원', imgSrc: 'path/to/image6.png' },
+  { id: 1, name: '브랜드A', description: '편안하고 착용감이 좋은 신발', price: '335,000원', imgSrc: shoes1 },
+  { id: 2, name: '브랜드A', description: '편한 컬러가 매력적인 신발', price: '252,000원', imgSrc: shoes2 },
+  { id: 3, name: '브랜드B', description: '편안하고 착용감이 좋은 신발', price: '335,000원', imgSrc: shoes3 },
+  { id: 4, name: '브랜드B', description: '편한 컬러가 매력적인 신발', price: '353,000원', imgSrc: shoes4 },
+  { id: 5, name: '브랜드C', description: '편안하고 착용감이 좋은 신발', price: '345,000원', imgSrc: shoes5 },
+  { id: 6, name: '브랜드C', description: '편한 컬러가 매력적인 신발', price: '325,000원', imgSrc: shoes6 },
 ];
 
 const ProductList = ({ addToCart }) => {
