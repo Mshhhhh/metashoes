@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/metashoes/static/css/main.43ac6ab0.chunk.css",
-    "main.js": "/metashoes/static/js/main.1e700147.chunk.js",
-    "main.js.map": "/metashoes/static/js/main.1e700147.chunk.js.map",
+    "main.css": "/metashoes/static/css/main.cd2cdf9c.chunk.css",
+    "main.js": "/metashoes/static/js/main.a47463ff.chunk.js",
+    "main.js.map": "/metashoes/static/js/main.a47463ff.chunk.js.map",
     "runtime-main.js": "/metashoes/static/js/runtime-main.c14c5bac.js",
     "runtime-main.js.map": "/metashoes/static/js/runtime-main.c14c5bac.js.map",
     "static/js/2.366a9635.chunk.js": "/metashoes/static/js/2.366a9635.chunk.js",
     "static/js/2.366a9635.chunk.js.map": "/metashoes/static/js/2.366a9635.chunk.js.map",
     "index.html": "/metashoes/index.html",
-    "static/css/main.43ac6ab0.chunk.css.map": "/metashoes/static/css/main.43ac6ab0.chunk.css.map",
-    "static/js/2.366a9635.chunk.js.LICENSE.txt": "/metashoes/static/js/2.366a9635.chunk.js.LICENSE.txt"
+    "static/css/main.cd2cdf9c.chunk.css.map": "/metashoes/static/css/main.cd2cdf9c.chunk.css.map",
+    "static/js/2.366a9635.chunk.js.LICENSE.txt": "/metashoes/static/js/2.366a9635.chunk.js.LICENSE.txt",
+    "static/media/shoes1.cec559c7.jpg": "/metashoes/static/media/shoes1.cec559c7.jpg",
+    "static/media/shoes2.bab88d40.png": "/metashoes/static/media/shoes2.bab88d40.png",
+    "static/media/shoes3.6c8bdff1.png": "/metashoes/static/media/shoes3.6c8bdff1.png",
+    "static/media/shoes4.49f543dc.png": "/metashoes/static/media/shoes4.49f543dc.png",
+    "static/media/shoes6.11071a03.png": "/metashoes/static/media/shoes6.11071a03.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c14c5bac.js",
     "static/js/2.366a9635.chunk.js",
-    "static/css/main.43ac6ab0.chunk.css",
-    "static/js/main.1e700147.chunk.js"
+    "static/css/main.cd2cdf9c.chunk.css",
+    "static/js/main.a47463ff.chunk.js"
   ]
 }
